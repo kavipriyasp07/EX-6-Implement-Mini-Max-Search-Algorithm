@@ -87,5 +87,8 @@ print("Winner:", "O" if win('O') else "X" if win('X') else "Draw")
 
 <hr>
 <h2>Input and Output</h2>
+
+<img width="326" height="598" alt="image" src="https://github.com/user-attachments/assets/3edd147d-03bd-4caa-9767-7fc12c3ef543" />
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
