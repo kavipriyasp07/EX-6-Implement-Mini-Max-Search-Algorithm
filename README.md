@@ -8,7 +8,7 @@
 
 <H3>Theory </H3>
 
-The Minimax Algorithm is a decision-making algorithm used in two-player games like Tic-Tac-Toe, Chess, and Checkers.
+The Minimax Algorithm is a decision-making algorithm used in two-player games like Tic-Tac-Toe, Chess, and Checkers. 
 It helps the computer choose the best possible move by minimizing the opponent’s chance of winning while maximizing its own chance.
 
 In Tic-Tac-Toe:
